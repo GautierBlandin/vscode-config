@@ -1,0 +1,13 @@
+bierner.markdown-mermaid
+continue.continue
+dbaeumer.vscode-eslint
+esbenp.prettier-vscode
+firsttris.vscode-jest-runner
+ms-azuretools.vscode-docker
+ms-playwright.playwright
+ms-vscode-remote.remote-containers
+ms-vsliveshare.vsliveshare
+nrwl.angular-console
+rooveterinaryinc.roo-cline
+wallabyjs.console-ninja
+yzhang.markdown-all-in-one
