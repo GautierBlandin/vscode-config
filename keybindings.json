@@ -1,1 +1,31 @@
-[]
+[
+  {
+    "key": "shift shift",
+    "command": "workbench.action.quickOpen"
+  },
+  {
+    "key": "ctrl+i",
+    "command": "editor.action.triggerSuggest",
+    "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly && !suggestWidgetVisible"
+  },
+  {
+    "key": "cmd+i",
+    "command": "-editor.action.triggerSuggest",
+    "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly && !suggestWidgetVisible"
+  },
+  {
+    "key": "ctrl+backspace",
+    "command": "-deleteLeft",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "ctrl+backspace",
+    "command": "editor.action.deleteLines",
+    "when": "textInputFocus && !editorReadonly"
+  },
+  {
+    "key": "shift+cmd+k",
+    "command": "-editor.action.deleteLines",
+    "when": "textInputFocus && !editorReadonly"
+  }
+]

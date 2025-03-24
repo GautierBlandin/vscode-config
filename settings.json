@@ -1,6 +1,6 @@
 {
   "playwright.reuseBrowser": true,
-  "workbench.colorTheme": "Visual Studio Light",
+  "workbench.colorTheme": "Default Light Modern",
   "diffEditor.hideUnchangedRegions.enabled": true,
   "terminal.integrated.env.osx": {},
   "console-ninja.featureSet": "Community",
@@ -17,5 +17,14 @@
     "javascriptreact",
     "typescript",
     "typescriptreact"
-  ]
+  ],
+  "js/ts.implicitProjectConfig.strictNullChecks": false,
+  "git.autofetch": true,
+  "editor.fontFamily": "Comic Code Ligatures",
+  "editor.fontSize": 14,
+  "continue.enableTabAutocomplete": false,
+  "continue.disableQuickFix": true,
+  "continue.showInlineTip": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "excalidraw.theme": "light"
 }
